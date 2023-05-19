@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Ehsan Ansari</h1>
-<h3 align="center">Software Engineer | Android Developer | Java Developer</h3>
+<h3 align="center">Software Engineer | Android Developer | Java Developer | Python Developer | Backend Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ehsanansari9140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdehsan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohammad.ehsan.7186896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mohammad Ehsan Ansari" height="30" width="40" /></a>
@@ -32,10 +32,10 @@
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently Developing **Vaccine Availibity App** Payment Gateway **<br>
-✔ I’m currently learning **SpringBoot** & **Javascript**<br>
+✔ I’m currently learning **Django** & **Javascript**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Android Development**<br>
-✔ I’m looking for  **Android Developer** Job or Internship<br>
+✔ I’m looking for  **Android Developer**  or **Backend Developer** Job <br>
 
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
