@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohammad Ehsan Ansari</h1>
-<h3 align="center">Software Engineer | Android Developer | Java Developer | Python Developer | Backend Developer</h3>
+<h3 align="center">Software Engineer  | Python Developer | Backend Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ehsanansari9140/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdehsan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohammad.ehsan.7186896" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mohammad Ehsan Ansari" height="30" width="40" /></a>
@@ -15,8 +15,8 @@
 
 <p align="center">
   <em>
-    This is ME, Mohammad Ehsan Ansari, a <b>Pre Final Year</b> graduate from <a href="https://www.mmmut.ac.in/"> <b>Madan Mohan Malaviya University Of Technology</b>, Gorakhpur</a>. <br>
-    A budding <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>DSA Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is ME, Mohammad Ehsan Ansari, a <b>Software Engineer</b>  at <a href="https://tftus.com/"> <b>Think Future Technology</b>, Gurgaon</a>. <br>
+    A budding <b>Backend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Startup Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -31,10 +31,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Vaccine Availibity App** Payment Gateway **<br>
+✔ I’m currently Developing **Reportify** 360* Holistick ReportCard **<br>
+✔ I’m currently Developing **Service Connect** A Marketplace **<br>
 ✔ I’m currently learning **Django** & **Javascript**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Android Development**<br>
+✔ I’m looking for help for learning **Backend Developement**<br>
 ✔ I’m looking for  **Android Developer**  or **Backend Developer** Job <br>
 
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
