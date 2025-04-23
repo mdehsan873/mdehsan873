@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    This is ME, Mohammad Ehsan Ansari, a <b>Founding Engineer</b>  at <a href="https://tftus.com/"> <b>Marky</b>, USA(Remote)</a>. <br>
+    This is ME, Mohammad Ehsan Ansari, a <b>Founding Engineer</b>  at <a href="https://www.mymarky.ai/"> <b>Marky</b>, USA</a>. <br>
     A budding <b>Backend Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Startup Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
