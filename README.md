@@ -99,3 +99,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+### 📊 GitHub Stats
+
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdehsan873&show_icons=true&theme=radical)
