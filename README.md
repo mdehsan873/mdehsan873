@@ -11,13 +11,12 @@ We offer:
 - Verified at-home caregivers (part-time nurses, students, and professionals)
 - Regular health checkups & WhatsApp updates
 - Medication reminders & emotional companionship  
-- Affordable pricing (₹1,000–₹2,000/month)
+- Affordable pricing (₹1,000–₹2,000/month (INR))
 
 💡 **Progress Highlights**
-- ✅ Validated by 39+ users and 30+ paid customers
-- ✅ MVP built with FastAPI + PostgreSQL
-- ✅ GTM launched with influencers, caregiver videos, and WhatsApp-first onboarding
-- ✅ Expanding to 3 cities, targeting ₹1–2L MRR before fundraising
+- Validated by 50+ users and 10+ paid customers
+- MVP buiiding with FastAPI + PostgreSQL and React Native
+- Expanding to 3 cities, targeting ₹1–2L MRR before fundraising
 
 📈 **Tech Stack**
 - FastAPI, PostgreSQL, Supabase, OpenAPI
@@ -26,8 +25,6 @@ We offer:
 
 📣 **Looking to Connect**
 - Angel investors / micro VCs who believe in Bharat tech & affordable care
-- Local clinics/pharmacies, nurses, students, and social media creators
-- Full-time or freelance React Native developers
 
 ---
 
