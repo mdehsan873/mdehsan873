@@ -6,7 +6,7 @@
 🚀 **Current Focus**  
 I'm the founder of **Aetas Care**, an elder caregiving platform designed to help working adults support their aging parents in Tier 2/3 cities in India — starting with Lucknow, Prayagraj, and Varanasi.
 
-👴🏽 **What Care4You Does**  
+👴🏽 **What  Aetas Care Does**  
 We offer:
 - Verified at-home caregivers (part-time nurses, students, and professionals)
 - Regular health checkups & WhatsApp updates
